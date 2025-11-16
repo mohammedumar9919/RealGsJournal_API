@@ -1,0 +1,432 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projects\\RealGsJournal\\RealGsJournal_API\\RealGsJournal_API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C346363B-7E7C-43A9-9C40-115F34E54B5E}|RealGsJournal_API\\RealGsJournal_API.csproj|c:\\projects\\realgsjournal\\realgsjournal_api\\realgsjournal_api\\realgsjournal_api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C346363B-7E7C-43A9-9C40-115F34E54B5E}|RealGsJournal_API\\RealGsJournal_API.csproj|solutionrelative:realgsjournal_api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C346363B-7E7C-43A9-9C40-115F34E54B5E}|RealGsJournal_API\\RealGsJournal_API.csproj|c:\\projects\\realgsjournal\\realgsjournal_api\\realgsjournal_api\\realgsjournal_api\\providers\\userprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C346363B-7E7C-43A9-9C40-115F34E54B5E}|RealGsJournal_API\\RealGsJournal_API.csproj|solutionrelative:realgsjournal_api\\providers\\userprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C346363B-7E7C-43A9-9C40-115F34E54B5E}|RealGsJournal_API\\RealGsJournal_API.csproj|c:\\projects\\realgsjournal\\realgsjournal_api\\realgsjournal_api\\realgsjournal_api\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C346363B-7E7C-43A9-9C40-115F34E54B5E}|RealGsJournal_API\\RealGsJournal_API.csproj|solutionrelative:realgsjournal_api\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C346363B-7E7C-43A9-9C40-115F34E54B5E}|RealGsJournal_API\\RealGsJournal_API.csproj|c:\\projects\\realgsjournal\\realgsjournal_api\\realgsjournal_api\\realgsjournal_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C346363B-7E7C-43A9-9C40-115F34E54B5E}|RealGsJournal_API\\RealGsJournal_API.csproj|solutionrelative:realgsjournal_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C346363B-7E7C-43A9-9C40-115F34E54B5E}|RealGsJournal_API\\RealGsJournal_API.csproj|c:\\projects\\realgsjournal\\realgsjournal_api\\realgsjournal_api\\realgsjournal_api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C346363B-7E7C-43A9-9C40-115F34E54B5E}|RealGsJournal_API\\RealGsJournal_API.csproj|solutionrelative:realgsjournal_api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C346363B-7E7C-43A9-9C40-115F34E54B5E}|RealGsJournal_API\\RealGsJournal_API.csproj|c:\\projects\\realgsjournal\\realgsjournal_api\\realgsjournal_api\\realgsjournal_api\\config\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C346363B-7E7C-43A9-9C40-115F34E54B5E}|RealGsJournal_API\\RealGsJournal_API.csproj|solutionrelative:realgsjournal_api\\config\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C346363B-7E7C-43A9-9C40-115F34E54B5E}|RealGsJournal_API\\RealGsJournal_API.csproj|c:\\projects\\realgsjournal\\realgsjournal_api\\realgsjournal_api\\realgsjournal_api\\providers\\authprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C346363B-7E7C-43A9-9C40-115F34E54B5E}|RealGsJournal_API\\RealGsJournal_API.csproj|solutionrelative:realgsjournal_api\\providers\\authprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C346363B-7E7C-43A9-9C40-115F34E54B5E}|RealGsJournal_API\\RealGsJournal_API.csproj|c:\\projects\\realgsjournal\\realgsjournal_api\\realgsjournal_api\\realgsjournal_api\\interfaces\\user\\iauthprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C346363B-7E7C-43A9-9C40-115F34E54B5E}|RealGsJournal_API\\RealGsJournal_API.csproj|solutionrelative:realgsjournal_api\\interfaces\\user\\iauthprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C346363B-7E7C-43A9-9C40-115F34E54B5E}|RealGsJournal_API\\RealGsJournal_API.csproj|c:\\projects\\realgsjournal\\realgsjournal_api\\realgsjournal_api\\realgsjournal_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C346363B-7E7C-43A9-9C40-115F34E54B5E}|RealGsJournal_API\\RealGsJournal_API.csproj|solutionrelative:realgsjournal_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C346363B-7E7C-43A9-9C40-115F34E54B5E}|RealGsJournal_API\\RealGsJournal_API.csproj|c:\\projects\\realgsjournal\\realgsjournal_api\\realgsjournal_api\\realgsjournal_api\\controllers\\blogscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C346363B-7E7C-43A9-9C40-115F34E54B5E}|RealGsJournal_API\\RealGsJournal_API.csproj|solutionrelative:realgsjournal_api\\controllers\\blogscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C346363B-7E7C-43A9-9C40-115F34E54B5E}|RealGsJournal_API\\RealGsJournal_API.csproj|c:\\projects\\realgsjournal\\realgsjournal_api\\realgsjournal_api\\realgsjournal_api\\providers\\blogprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C346363B-7E7C-43A9-9C40-115F34E54B5E}|RealGsJournal_API\\RealGsJournal_API.csproj|solutionrelative:realgsjournal_api\\providers\\blogprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C346363B-7E7C-43A9-9C40-115F34E54B5E}|RealGsJournal_API\\RealGsJournal_API.csproj|c:\\projects\\realgsjournal\\realgsjournal_api\\realgsjournal_api\\realgsjournal_api\\interfaces\\user\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C346363B-7E7C-43A9-9C40-115F34E54B5E}|RealGsJournal_API\\RealGsJournal_API.csproj|solutionrelative:realgsjournal_api\\interfaces\\user\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C346363B-7E7C-43A9-9C40-115F34E54B5E}|RealGsJournal_API\\RealGsJournal_API.csproj|c:\\projects\\realgsjournal\\realgsjournal_api\\realgsjournal_api\\realgsjournal_api\\interfaces\\blog\\iblogprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C346363B-7E7C-43A9-9C40-115F34E54B5E}|RealGsJournal_API\\RealGsJournal_API.csproj|solutionrelative:realgsjournal_api\\interfaces\\blog\\iblogprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C346363B-7E7C-43A9-9C40-115F34E54B5E}|RealGsJournal_API\\RealGsJournal_API.csproj|c:\\projects\\realgsjournal\\realgsjournal_api\\realgsjournal_api\\realgsjournal_api\\interfaces\\user\\iuserprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C346363B-7E7C-43A9-9C40-115F34E54B5E}|RealGsJournal_API\\RealGsJournal_API.csproj|solutionrelative:realgsjournal_api\\interfaces\\user\\iuserprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C346363B-7E7C-43A9-9C40-115F34E54B5E}|RealGsJournal_API\\RealGsJournal_API.csproj|c:\\projects\\realgsjournal\\realgsjournal_api\\realgsjournal_api\\realgsjournal_api\\interfaces\\blog\\iblogrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C346363B-7E7C-43A9-9C40-115F34E54B5E}|RealGsJournal_API\\RealGsJournal_API.csproj|solutionrelative:realgsjournal_api\\interfaces\\blog\\iblogrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C346363B-7E7C-43A9-9C40-115F34E54B5E}|RealGsJournal_API\\RealGsJournal_API.csproj|c:\\projects\\realgsjournal\\realgsjournal_api\\realgsjournal_api\\realgsjournal_api\\config\\dappercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C346363B-7E7C-43A9-9C40-115F34E54B5E}|RealGsJournal_API\\RealGsJournal_API.csproj|solutionrelative:realgsjournal_api\\config\\dappercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C346363B-7E7C-43A9-9C40-115F34E54B5E}|RealGsJournal_API\\RealGsJournal_API.csproj|c:\\projects\\realgsjournal\\realgsjournal_api\\realgsjournal_api\\realgsjournal_api\\repositories\\blogrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C346363B-7E7C-43A9-9C40-115F34E54B5E}|RealGsJournal_API\\RealGsJournal_API.csproj|solutionrelative:realgsjournal_api\\repositories\\blogrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C346363B-7E7C-43A9-9C40-115F34E54B5E}|RealGsJournal_API\\RealGsJournal_API.csproj|c:\\projects\\realgsjournal\\realgsjournal_api\\realgsjournal_api\\realgsjournal_api\\dtos\\updateuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C346363B-7E7C-43A9-9C40-115F34E54B5E}|RealGsJournal_API\\RealGsJournal_API.csproj|solutionrelative:realgsjournal_api\\dtos\\updateuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C346363B-7E7C-43A9-9C40-115F34E54B5E}|RealGsJournal_API\\RealGsJournal_API.csproj|c:\\projects\\realgsjournal\\realgsjournal_api\\realgsjournal_api\\realgsjournal_api\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C346363B-7E7C-43A9-9C40-115F34E54B5E}|RealGsJournal_API\\RealGsJournal_API.csproj|solutionrelative:realgsjournal_api\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C346363B-7E7C-43A9-9C40-115F34E54B5E}|RealGsJournal_API\\RealGsJournal_API.csproj|c:\\projects\\realgsjournal\\realgsjournal_api\\realgsjournal_api\\realgsjournal_api\\dtos\\createuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C346363B-7E7C-43A9-9C40-115F34E54B5E}|RealGsJournal_API\\RealGsJournal_API.csproj|solutionrelative:realgsjournal_api\\dtos\\createuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C346363B-7E7C-43A9-9C40-115F34E54B5E}|RealGsJournal_API\\RealGsJournal_API.csproj|c:\\projects\\realgsjournal\\realgsjournal_api\\realgsjournal_api\\realgsjournal_api\\dtos\\blogupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C346363B-7E7C-43A9-9C40-115F34E54B5E}|RealGsJournal_API\\RealGsJournal_API.csproj|solutionrelative:realgsjournal_api\\dtos\\blogupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C346363B-7E7C-43A9-9C40-115F34E54B5E}|RealGsJournal_API\\RealGsJournal_API.csproj|c:\\projects\\realgsjournal\\realgsjournal_api\\realgsjournal_api\\realgsjournal_api\\dtos\\blogcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C346363B-7E7C-43A9-9C40-115F34E54B5E}|RealGsJournal_API\\RealGsJournal_API.csproj|solutionrelative:realgsjournal_api\\dtos\\blogcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C346363B-7E7C-43A9-9C40-115F34E54B5E}|RealGsJournal_API\\RealGsJournal_API.csproj|c:\\projects\\realgsjournal\\realgsjournal_api\\realgsjournal_api\\realgsjournal_api\\models\\blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C346363B-7E7C-43A9-9C40-115F34E54B5E}|RealGsJournal_API\\RealGsJournal_API.csproj|solutionrelative:realgsjournal_api\\models\\blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C346363B-7E7C-43A9-9C40-115F34E54B5E}|RealGsJournal_API\\RealGsJournal_API.csproj|c:\\projects\\realgsjournal\\realgsjournal_api\\realgsjournal_api\\realgsjournal_api\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C346363B-7E7C-43A9-9C40-115F34E54B5E}|RealGsJournal_API\\RealGsJournal_API.csproj|solutionrelative:realgsjournal_api\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AuthProvider.cs",
+              "DocumentMoniker": "C:\\Projects\\RealGsJournal\\RealGsJournal_API\\RealGsJournal_API\\RealGsJournal_API\\Providers\\AuthProvider.cs",
+              "RelativeDocumentMoniker": "RealGsJournal_API\\Providers\\AuthProvider.cs",
+              "ToolTip": "C:\\Projects\\RealGsJournal\\RealGsJournal_API\\RealGsJournal_API\\RealGsJournal_API\\Providers\\AuthProvider.cs",
+              "RelativeToolTip": "RealGsJournal_API\\Providers\\AuthProvider.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAADwv0EAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T01:34:23.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Projects\\RealGsJournal\\RealGsJournal_API\\RealGsJournal_API\\RealGsJournal_API\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "RealGsJournal_API\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Projects\\RealGsJournal\\RealGsJournal_API\\RealGsJournal_API\\RealGsJournal_API\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "RealGsJournal_API\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAIwD8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T02:06:45.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projects\\RealGsJournal\\RealGsJournal_API\\RealGsJournal_API\\RealGsJournal_API\\Program.cs",
+              "RelativeDocumentMoniker": "RealGsJournal_API\\Program.cs",
+              "ToolTip": "C:\\Projects\\RealGsJournal\\RealGsJournal_API\\RealGsJournal_API\\RealGsJournal_API\\Program.cs",
+              "RelativeToolTip": "RealGsJournal_API\\Program.cs",
+              "ViewState": "AgIAAHUAAAAAAAAAAAAUwHsAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T01:59:57.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Projects\\RealGsJournal\\RealGsJournal_API\\RealGsJournal_API\\RealGsJournal_API\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "RealGsJournal_API\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Projects\\RealGsJournal\\RealGsJournal_API\\RealGsJournal_API\\RealGsJournal_API\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "RealGsJournal_API\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAUwGUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T01:28:46.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserProvider.cs",
+              "DocumentMoniker": "C:\\Projects\\RealGsJournal\\RealGsJournal_API\\RealGsJournal_API\\RealGsJournal_API\\Providers\\UserProvider.cs",
+              "RelativeDocumentMoniker": "RealGsJournal_API\\Providers\\UserProvider.cs",
+              "ToolTip": "C:\\Projects\\RealGsJournal\\RealGsJournal_API\\RealGsJournal_API\\RealGsJournal_API\\Providers\\UserProvider.cs",
+              "RelativeToolTip": "RealGsJournal_API\\Providers\\UserProvider.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAUwFQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T01:32:57.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Projects\\RealGsJournal\\RealGsJournal_API\\RealGsJournal_API\\RealGsJournal_API\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "RealGsJournal_API\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Projects\\RealGsJournal\\RealGsJournal_API\\RealGsJournal_API\\RealGsJournal_API\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "RealGsJournal_API\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAUwFcAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T02:12:41.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IAuthProvider.cs",
+              "DocumentMoniker": "C:\\Projects\\RealGsJournal\\RealGsJournal_API\\RealGsJournal_API\\RealGsJournal_API\\Interfaces\\User\\IAuthProvider.cs",
+              "RelativeDocumentMoniker": "RealGsJournal_API\\Interfaces\\User\\IAuthProvider.cs",
+              "ToolTip": "C:\\Projects\\RealGsJournal\\RealGsJournal_API\\RealGsJournal_API\\RealGsJournal_API\\Interfaces\\User\\IAuthProvider.cs",
+              "RelativeToolTip": "RealGsJournal_API\\Interfaces\\User\\IAuthProvider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T01:21:41.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Projects\\RealGsJournal\\RealGsJournal_API\\RealGsJournal_API\\RealGsJournal_API\\appsettings.json",
+              "RelativeDocumentMoniker": "RealGsJournal_API\\appsettings.json",
+              "ToolTip": "C:\\Projects\\RealGsJournal\\RealGsJournal_API\\RealGsJournal_API\\RealGsJournal_API\\appsettings.json",
+              "RelativeToolTip": "RealGsJournal_API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-14T01:00:51.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "JwtSettings.cs",
+              "DocumentMoniker": "C:\\Projects\\RealGsJournal\\RealGsJournal_API\\RealGsJournal_API\\RealGsJournal_API\\Config\\JwtSettings.cs",
+              "RelativeDocumentMoniker": "RealGsJournal_API\\Config\\JwtSettings.cs",
+              "ToolTip": "C:\\Projects\\RealGsJournal\\RealGsJournal_API\\RealGsJournal_API\\RealGsJournal_API\\Config\\JwtSettings.cs",
+              "RelativeToolTip": "RealGsJournal_API\\Config\\JwtSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T01:53:41.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BlogProvider.cs",
+              "DocumentMoniker": "C:\\Projects\\RealGsJournal\\RealGsJournal_API\\RealGsJournal_API\\RealGsJournal_API\\Providers\\BlogProvider.cs",
+              "RelativeDocumentMoniker": "RealGsJournal_API\\Providers\\BlogProvider.cs",
+              "ToolTip": "C:\\Projects\\RealGsJournal\\RealGsJournal_API\\RealGsJournal_API\\RealGsJournal_API\\Providers\\BlogProvider.cs",
+              "RelativeToolTip": "RealGsJournal_API\\Providers\\BlogProvider.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAywDQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T01:56:40.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BlogsController.cs",
+              "DocumentMoniker": "C:\\Projects\\RealGsJournal\\RealGsJournal_API\\RealGsJournal_API\\RealGsJournal_API\\Controllers\\BlogsController.cs",
+              "RelativeDocumentMoniker": "RealGsJournal_API\\Controllers\\BlogsController.cs",
+              "ToolTip": "C:\\Projects\\RealGsJournal\\RealGsJournal_API\\RealGsJournal_API\\RealGsJournal_API\\Controllers\\BlogsController.cs",
+              "RelativeToolTip": "RealGsJournal_API\\Controllers\\BlogsController.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAAAEkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T02:14:55.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IBlogProvider.cs",
+              "DocumentMoniker": "C:\\Projects\\RealGsJournal\\RealGsJournal_API\\RealGsJournal_API\\RealGsJournal_API\\Interfaces\\Blog\\IBlogProvider.cs",
+              "RelativeDocumentMoniker": "RealGsJournal_API\\Interfaces\\Blog\\IBlogProvider.cs",
+              "ToolTip": "C:\\Projects\\RealGsJournal\\RealGsJournal_API\\RealGsJournal_API\\RealGsJournal_API\\Interfaces\\Blog\\IBlogProvider.cs",
+              "RelativeToolTip": "RealGsJournal_API\\Interfaces\\Blog\\IBlogProvider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T01:24:30.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IBlogRepository.cs",
+              "DocumentMoniker": "C:\\Projects\\RealGsJournal\\RealGsJournal_API\\RealGsJournal_API\\RealGsJournal_API\\Interfaces\\Blog\\IBlogRepository.cs",
+              "RelativeDocumentMoniker": "RealGsJournal_API\\Interfaces\\Blog\\IBlogRepository.cs",
+              "ToolTip": "C:\\Projects\\RealGsJournal\\RealGsJournal_API\\RealGsJournal_API\\RealGsJournal_API\\Interfaces\\Blog\\IBlogRepository.cs",
+              "RelativeToolTip": "RealGsJournal_API\\Interfaces\\Blog\\IBlogRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T01:23:08.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IUserProvider.cs",
+              "DocumentMoniker": "C:\\Projects\\RealGsJournal\\RealGsJournal_API\\RealGsJournal_API\\RealGsJournal_API\\Interfaces\\User\\IUserProvider.cs",
+              "RelativeDocumentMoniker": "RealGsJournal_API\\Interfaces\\User\\IUserProvider.cs",
+              "ToolTip": "C:\\Projects\\RealGsJournal\\RealGsJournal_API\\RealGsJournal_API\\RealGsJournal_API\\Interfaces\\User\\IUserProvider.cs",
+              "RelativeToolTip": "RealGsJournal_API\\Interfaces\\User\\IUserProvider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T01:20:11.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DapperContext.cs",
+              "DocumentMoniker": "C:\\Projects\\RealGsJournal\\RealGsJournal_API\\RealGsJournal_API\\RealGsJournal_API\\Config\\DapperContext.cs",
+              "RelativeDocumentMoniker": "RealGsJournal_API\\Config\\DapperContext.cs",
+              "ToolTip": "C:\\Projects\\RealGsJournal\\RealGsJournal_API\\RealGsJournal_API\\RealGsJournal_API\\Config\\DapperContext.cs",
+              "RelativeToolTip": "RealGsJournal_API\\Config\\DapperContext.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAIwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T01:26:30.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Projects\\RealGsJournal\\RealGsJournal_API\\RealGsJournal_API\\RealGsJournal_API\\Interfaces\\User\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "RealGsJournal_API\\Interfaces\\User\\IUserRepository.cs",
+              "ToolTip": "C:\\Projects\\RealGsJournal\\RealGsJournal_API\\RealGsJournal_API\\RealGsJournal_API\\Interfaces\\User\\IUserRepository.cs",
+              "RelativeToolTip": "RealGsJournal_API\\Interfaces\\User\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T01:18:38.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "BlogRepository.cs",
+              "DocumentMoniker": "C:\\Projects\\RealGsJournal\\RealGsJournal_API\\RealGsJournal_API\\RealGsJournal_API\\Repositories\\BlogRepository.cs",
+              "RelativeDocumentMoniker": "RealGsJournal_API\\Repositories\\BlogRepository.cs",
+              "ToolTip": "C:\\Projects\\RealGsJournal\\RealGsJournal_API\\RealGsJournal_API\\RealGsJournal_API\\Repositories\\BlogRepository.cs",
+              "RelativeToolTip": "RealGsJournal_API\\Repositories\\BlogRepository.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAIwEgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T01:30:27.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "BlogUpdateDto.cs",
+              "DocumentMoniker": "C:\\Projects\\RealGsJournal\\RealGsJournal_API\\RealGsJournal_API\\RealGsJournal_API\\Dtos\\BlogUpdateDto.cs",
+              "RelativeDocumentMoniker": "RealGsJournal_API\\Dtos\\BlogUpdateDto.cs",
+              "ToolTip": "C:\\Projects\\RealGsJournal\\RealGsJournal_API\\RealGsJournal_API\\RealGsJournal_API\\Dtos\\BlogUpdateDto.cs",
+              "RelativeToolTip": "RealGsJournal_API\\Dtos\\BlogUpdateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T01:13:52.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "BlogCreateDto.cs",
+              "DocumentMoniker": "C:\\Projects\\RealGsJournal\\RealGsJournal_API\\RealGsJournal_API\\RealGsJournal_API\\Dtos\\BlogCreateDto.cs",
+              "RelativeDocumentMoniker": "RealGsJournal_API\\Dtos\\BlogCreateDto.cs",
+              "ToolTip": "C:\\Projects\\RealGsJournal\\RealGsJournal_API\\RealGsJournal_API\\RealGsJournal_API\\Dtos\\BlogCreateDto.cs",
+              "RelativeToolTip": "RealGsJournal_API\\Dtos\\BlogCreateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T01:13:05.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\Projects\\RealGsJournal\\RealGsJournal_API\\RealGsJournal_API\\RealGsJournal_API\\Dtos\\LoginDto.cs",
+              "RelativeDocumentMoniker": "RealGsJournal_API\\Dtos\\LoginDto.cs",
+              "ToolTip": "C:\\Projects\\RealGsJournal\\RealGsJournal_API\\RealGsJournal_API\\RealGsJournal_API\\Dtos\\LoginDto.cs",
+              "RelativeToolTip": "RealGsJournal_API\\Dtos\\LoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T01:12:21.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UpdateUserDto.cs",
+              "DocumentMoniker": "C:\\Projects\\RealGsJournal\\RealGsJournal_API\\RealGsJournal_API\\RealGsJournal_API\\Dtos\\UpdateUserDto.cs",
+              "RelativeDocumentMoniker": "RealGsJournal_API\\Dtos\\UpdateUserDto.cs",
+              "ToolTip": "C:\\Projects\\RealGsJournal\\RealGsJournal_API\\RealGsJournal_API\\RealGsJournal_API\\Dtos\\UpdateUserDto.cs",
+              "RelativeToolTip": "RealGsJournal_API\\Dtos\\UpdateUserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T01:11:29.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CreateUserDto.cs",
+              "DocumentMoniker": "C:\\Projects\\RealGsJournal\\RealGsJournal_API\\RealGsJournal_API\\RealGsJournal_API\\Dtos\\CreateUserDto.cs",
+              "RelativeDocumentMoniker": "RealGsJournal_API\\Dtos\\CreateUserDto.cs",
+              "ToolTip": "C:\\Projects\\RealGsJournal\\RealGsJournal_API\\RealGsJournal_API\\RealGsJournal_API\\Dtos\\CreateUserDto.cs",
+              "RelativeToolTip": "RealGsJournal_API\\Dtos\\CreateUserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T01:10:23.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Blog.cs",
+              "DocumentMoniker": "C:\\Projects\\RealGsJournal\\RealGsJournal_API\\RealGsJournal_API\\RealGsJournal_API\\Models\\Blog.cs",
+              "RelativeDocumentMoniker": "RealGsJournal_API\\Models\\Blog.cs",
+              "ToolTip": "C:\\Projects\\RealGsJournal\\RealGsJournal_API\\RealGsJournal_API\\RealGsJournal_API\\Models\\Blog.cs",
+              "RelativeToolTip": "RealGsJournal_API\\Models\\Blog.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T01:06:54.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Projects\\RealGsJournal\\RealGsJournal_API\\RealGsJournal_API\\RealGsJournal_API\\Models\\User.cs",
+              "RelativeDocumentMoniker": "RealGsJournal_API\\Models\\User.cs",
+              "ToolTip": "C:\\Projects\\RealGsJournal\\RealGsJournal_API\\RealGsJournal_API\\RealGsJournal_API\\Models\\User.cs",
+              "RelativeToolTip": "RealGsJournal_API\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T01:05:26.974Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
